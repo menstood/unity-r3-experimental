@@ -42,4 +42,4 @@ To use this project, you need to have the R3 library installed and configured in
 
 ---
 
-Feel free to explore the code and integrate it into your own projects. For more information on R3 and how to use it in Unity, check out [R3's GitHub repository](https://github.com/Cy
+Feel free to explore the code and integrate it into your own projects. For more information on R3 and how to use it in Unity, check out [R3's GitHub repository](https://github.com/Cysharp/R3)

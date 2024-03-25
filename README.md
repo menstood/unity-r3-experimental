@@ -2,6 +2,8 @@
 
 This Unity project demonstrates the use of R3, a reactive programming framework for .NET, to update clock views for different time zones.
 
+![Result Demonstration](./GitHub/result.gif)
+
 ## Description
 
 The `Clock` class initializes three different `ClockView` components, each representing a clock for a specific time zone: Thailand (TH), South Africa (ZA), and the United Kingdom (UK). Each clock view subscribes to a `CurrentTime` observable from the `ClockViewModel` and displays the time accordingly.
